@@ -1,7 +1,10 @@
 # Plutus Pioneer
 __Learn Plutus and become a certified Plutus Pioneer with our new series of interactive training courses by IOG__
 
+> NOTE: Currently test on x86_64 GNU/Linux only.
+
 ## Plutus Development environment in a Docker container.
+
 
 ## QUICK START
 1. Build a nix data container:
